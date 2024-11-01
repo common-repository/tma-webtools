@@ -1,0 +1,196 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-05 10:56+0100\n"
+"PO-Revision-Date: 2016-09-05 11:07+0100\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"X-Generator: Eazy Po 0.9.5.3\n"
+
+#: includes/class.siteorigin_integration.php:43
+#: includes/backend/class.tma_wpadminbar.php:41
+msgid "Target Audience"
+msgstr "Zielgruppe"
+
+#: includes/class.siteorigin_integration.php:51
+#: includes/class.vc_integration.php:65
+msgid "Targeting"
+msgstr "Targeting"
+
+#: includes/class.siteorigin_integration.php:54
+msgid ""
+"If enabled, the content will only be visible to users matching the selected "
+"segments."
+msgstr ""
+"Wenn dies aktiviert ist, bekommen nur Benutzer des Segments die Inhalte "
+"angezeigt."
+
+#: includes/class.siteorigin_integration.php:58
+#: includes/class.vc_integration.php:143
+msgid "Matching mode"
+msgstr "Matching Modus"
+
+#: includes/class.siteorigin_integration.php:63
+#: includes/class.vc_integration.php:105 includes/class.vc_integration.php:148
+msgid "All"
+msgstr "Alle"
+
+#: includes/class.siteorigin_integration.php:64
+#: includes/class.vc_integration.php:104 includes/class.vc_integration.php:147
+msgid "Single"
+msgstr "Einzeln"
+
+#: includes/class.siteorigin_integration.php:66
+#: includes/class.vc_integration.php:107 includes/class.vc_integration.php:145
+msgid "User must match all or just a single segment."
+msgstr "Benutzer müssen in alle oder nur in einem einzelnen Segment sein."
+
+#: includes/class.siteorigin_integration.php:70
+#: includes/class.vc_integration.php:155
+msgid "Group"
+msgstr "Gruppe"
+
+#: includes/class.siteorigin_integration.php:73
+msgid "The name of the group. Groups can be used to group elements together"
+msgstr "Name der Gruppe. Mit Gruppen können Inhalte gruppiert werden."
+
+#: includes/class.siteorigin_integration.php:78
+msgid "Is Group default"
+msgstr "Gruppen default."
+
+#: includes/class.siteorigin_integration.php:81
+msgid ""
+"Is group default element. The default is used if not other element of the "
+"groups matchs the user. The default element must be the last element on the "
+"page."
+msgstr ""
+"Der Gruppen default wird angezeigt, wenn kein Element der Gruppe passt. Das "
+"default Element muss als letztens auf der Seite eingebunden werden."
+
+#: includes/class.vc_integration.php:67
+msgid "If activated, only users matching the segments will see the content."
+msgstr "Wenn dies aktiviert ist, können nur Benutzer mit den entsprechenden Segmenten den Inhalt sehen."
+
+#: includes/class.vc_integration.php:75
+msgid "Activate targeting"
+msgstr "Targeting aktivieren"
+
+#: includes/class.vc_integration.php:77
+msgid "The name of the group."
+msgstr "Der Name der Gruppe"
+
+#: includes/class.vc_integration.php:89
+msgid "Is group default"
+msgstr "Gruppen default"
+
+#: includes/class.vc_integration.php:91
+msgid "If activated, it is show if no other element of the groups matchs."
+msgstr "Wenn dies aktiviert ist, wird das default Element angezeigt, wenn kein anderes Element der Gruppe passt."
+
+#: includes/class.vc_integration.php:125 includes/class.vc_integration.php:177
+msgid "Segments"
+msgstr "Segmente"
+
+#: includes/class.vc_integration.php:126 includes/class.vc_integration.php:178
+msgid "For which segments the content should be visible."
+msgstr "Segmente, für die der Inhalt sichtbar sein soll."
+
+#: includes/class.vc_integration.php:158
+msgid "The group"
+msgstr "Die Gruppe"
+
+#: includes/class.vc_integration.php:162
+msgid "Group default"
+msgstr "Gruppen default"
+
+#: includes/class.vc_integration.php:165
+msgid "The group default"
+msgstr "Der Gruppen default"
+
+#: includes/class.vc_integration.php:184
+msgid "TMA-Content"
+msgstr "TMA-Content"
+
+#: includes/class.vc_integration.php:186
+msgid "TMA Content Plugin"
+msgstr "TMA Content Plugin"
+
+#: includes/class.vc_integration.php:187
+msgid "TMA Widgets"
+msgstr "TMA Widgets"
+
+#: includes/backend/class.tma_metabox.php:51
+msgid "Segment Scoring"
+msgstr "Segment Scoring"
+
+#: includes/backend/class.tma_metabox.php:67
+msgid "Configure scoring for segments."
+msgstr "Konfiguration des Scorings für Segmente."
+
+#: includes/backend/class.tma_wpadminbar.php:76
+msgid "No segments found"
+msgstr "Keine Segmente gefunden"
+
+#: includes/backend/tma_settings_page.php:47
+#: includes/backend/tma_settings_page.php:65
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: includes/backend/tma_settings_page.php:48
+msgid "Site id"
+msgstr "Seiten ID"
+
+#: includes/backend/tma_settings_page.php:49
+msgid "Url"
+msgstr "Url"
+
+#: includes/backend/tma_settings_page.php:50
+msgid "ApiKey"
+msgstr "ApiKey"
+
+#: includes/backend/tma_settings_page.php:51
+msgid "Enable Tracking?"
+msgstr "Tracking aktivieren?"
+
+#: includes/backend/tma_settings_page.php:52
+msgid "Track logged in users?"
+msgstr "Auch angemeldete Benutzer tracken?"
+
+#: includes/backend/tma_settings_page.php:53
+msgid "Enable Scoring?"
+msgstr "Scoring aktivieren?"
+
+#: includes/backend/tma_settings_page.php:54
+msgid "View only single item per group?"
+msgstr "Nur ein Eintrag pro Gruppe anzeigen?"
+
+#: includes/backend/tma_settings_page.php:55
+msgid "Track WooCommerce events?"
+msgstr "Tracken WooCommerce Ereignissen?"
+
+#: includes/backend/tma_settings_page.php:64
+msgid "TMA WebTools"
+msgstr "TMA WebTools"
+
+#: includes/widgets/siteorigin/tma_content/tma_content.php:27
+msgid "TMA Content Widget"
+msgstr "TMA Content Widget"
+
+#: includes/widgets/siteorigin/tma_content/tma_content.php:31
+msgid "Deliver content targeting user behaviour."
+msgstr "Auslieferung von Inhalten basierend auf Benutzerverhalten."
+
+#: includes/widgets/siteorigin/tma_content/tma_content.php:41
+msgid "Hello world! goes here."
+msgstr ""
